@@ -126,3 +126,5 @@ ls --color=auto
 cd src
 pwd
 ls --color=auto
+more inex.js
+more index.js
